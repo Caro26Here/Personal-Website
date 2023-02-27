@@ -1,6 +1,10 @@
+body{
+    background-color: rgb(15, 22, 48);
+}
+
 .parent{
     color:rgb(207, 207, 210);
-    background-color: rgb(15, 22, 48);
+    background-color: rgb(21, 30, 62);
 }
 
 .child{
@@ -15,4 +19,9 @@
     width: 5%;
     padding: 5px;
     border: 5px;
+}
+
+.menu{
+    text-align:center;
+    color: rgb(207, 207, 210); 
 }
